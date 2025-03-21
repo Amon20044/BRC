@@ -1,5 +1,4 @@
 # **50 Shades of Segfault**  
-
 This repository is the **boilerplate** for this Challenge. Follow these 13 instructions carefully to set up your environment, submit your solution, and compete for the top spot on the leaderboard.  
 
 ```
